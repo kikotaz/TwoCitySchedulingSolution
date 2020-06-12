@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoCitySchedulingSolution", "TwoCitySchedulingSolution.csproj", "{92EE590A-BECF-46E0-91E5-EC6F3573D09F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92EE590A-BECF-46E0-91E5-EC6F3573D09F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92EE590A-BECF-46E0-91E5-EC6F3573D09F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92EE590A-BECF-46E0-91E5-EC6F3573D09F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92EE590A-BECF-46E0-91E5-EC6F3573D09F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3283A71-36B9-4734-9CF0-D71122E629B2}
+	EndGlobalSection
+EndGlobal
